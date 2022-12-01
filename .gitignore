@@ -1,6 +1,8 @@
-.env
-.venv
+# Local envs
+.*env
 .idea
+.vscode
 
 data
 __pycache__/
+site/
